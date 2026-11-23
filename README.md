@@ -27,7 +27,7 @@ Conquistar minha primeira oportunidade profissional na área de tecnologia, cont
 
 - [Gerador de Senhas](https://github.com/gabriel-silva-programming/gerador-de-senhas)
 
- Contato
+## Contato
 
 - E-mail: gabrielsilva1711pt@gmail.com
 - GitHub: [gabriel-silva-programming](https://github.com/gabriel-silva-programming)
